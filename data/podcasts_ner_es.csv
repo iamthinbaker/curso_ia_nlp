@@ -1,0 +1,484 @@
+id,text,annotation
+53c4748e-dbd2-4cf5-946f-d134b0bf6155,"Tengo 39 años, pues, ya veré cuándo yo quiero dejar de comer ternera, está mal, porque hay sobre explotación y todo esto, muy mal.","[{'end': 13, 'label': 'DATES', 'start': 6}]"
+0d6783a0-f249-43fe-b845-88db7e4c7f10,"Cuando sales de casa, ya estás planeando que foto subir a Instagram en las stories para que él la vea, porque estas alturas ya tenéis bromitas internas, jijiji.","[{'end': 67, 'label': 'ORGANIZATIONS', 'start': 58}]"
+44a3e10b-42af-477c-9b72-eca95ca01f14,"Lo es la amante de Catherine, Roxy y con un pasado de asesina de sus propios hermanos, el tabú total.","[{'end': 28, 'label': 'PEOPLE', 'start': 19}
+ {'end': 34, 'label': 'PEOPLE', 'start': 30}]"
+74f767fc-b14e-4844-8a30-6d882d48c162,¿Cómo hacer para que pese a entender que la idea del amor romántico es una construcción artificiosa con unas cuantas grietas?,"[{'end': 67, 'label': 'TOPIC', 'start': 53}]"
+0771a9fb-4f9a-4aa4-aae6-cc0c0c5692a6,"Lo descubrirás cuando te vayas a vivir con él a las seis semanas de relación, porque estás enamorada y ¿qué podrías salir más?","[{'end': 64, 'label': 'DATES', 'start': 52}
+ {'end': 100, 'label': 'TOPIC', 'start': 91}]"
+dabd8f97-8e52-4382-924f-f0280fa54b3e,"Sí, y eso no es muy feminista que digamos, sí, no lo es, venga, y qué, ya que estoy con mis parábolas y mis discursos de farsante en este podcast que ha ganado sondas, pero yo solo pienso en el amor.","[{'end': 29, 'label': 'TOPIC', 'start': 20}
+ {'end': 145, 'label': 'TOPIC', 'start': 138}
+ {'end': 198, 'label': 'TOPIC', 'start': 194}]"
+d154efbc-491e-4fc9-b897-b879c00ffc47,Es que todavía hay gente que hace secciones de humor de salir de tu zona de confort.,"[{'end': 52, 'label': 'TOPIC', 'start': 47}
+ {'end': 83, 'label': 'TOPIC', 'start': 68}]"
+639cf8bc-9180-40d1-81f1-ec76386504ae,"El hecho de estar más cerca de los 40 que de los 30, y sin compañero, no deje de generarme cierta ansiedad.","[{'end': 2, 'label': 'PEOPLE', 'start': 0}
+ {'end': 37, 'label': 'DATES', 'start': 31}
+ {'end': 51, 'label': 'DATES', 'start': 45}
+ {'end': 106, 'label': 'TOPIC', 'start': 98}]"
+bd287f2e-8dac-4f29-b875-cdab99ca5660,El cine nos ha enseñado todo lo que tenemos que entender sobre el hombre fatal.,"[{'end': 7, 'label': 'FILMS', 'start': 0}]"
+89b01b4d-76af-42bf-8533-a51994e9313e,"Y en ese restaurante, frecuentado por artistas.","[{'end': 20, 'label': 'PLACES', 'start': 9}]"
+17b8f24a-f4b0-40db-b6f5-0adacce261c4,"Y él le triplicaba la dada, tenía 61 años.","[{'end': 41, 'label': 'DATES', 'start': 34}]"
+a14d529c-6543-49a5-8c49-b8fc4f7597c8,"Él se plancha los calzoncillos, se corta el pelo cada tres semanas.","[{'end': 13, 'label': 'OBJECTS', 'start': 6}
+ {'end': 30, 'label': 'OBJECTS', 'start': 18}
+ {'end': 66, 'label': 'DATES', 'start': 54}]"
+e7ae7bcc-fe50-4e2d-b6ba-f847d872637e,"Pero esto lo has dicho en el podcast, clarísimamente.","[{'end': 36, 'label': 'TOPIC', 'start': 29}]"
+cef471f2-8f80-4797-b383-e8face139dd4,"Bien, ella sigue yendo al estudio, le mostraba los cuadros, coqueteaban, ya se saban, él como en un momento como que le toca a los pechos, ella tampoco se resiste, él como que le protesta otra vez, bueno... Que ruzla que un poco.","[{'end': 58, 'label': 'OBJECTS', 'start': 51}]"
+818f4edb-0f74-4fcc-95c3-083015f0b9e1,"Te lo juro, Lucía, pongo adiós por testigos, que jamás volveré a irme por las ramas ni a pasar hambre.","[{'end': 17, 'label': 'PEOPLE', 'start': 12}]"
+5c764c97-4643-49d5-bfa2-0a8f98eb0b1f,"Una señora además comprometida con su tiempo, filosofa... Difficilísimo.","[{'end': 54, 'label': 'TOPIC', 'start': 46}]"
+0c348ce3-a8f9-47cb-a64c-7865b91d4cbf,No sabemos hacer la declaración de las rentas olas.,"[{'end': 45, 'label': 'TOPIC', 'start': 20}]"
+c4160d6c-4a64-47f5-9513-9ce9c5f26bd2,"Porque, no, no, no, no, personal, vida, life, no, no, fuera, olvidad eso, no, es como, me invento, nada, no sé, no, sí, es que ahora voy a explicar unas cosas súper fuertes, bueno, luego resulta que es bueno, eh, la vida normal, pero en la cama pronto deja de funcionar con esa persona.","[{'end': 244, 'label': 'OBJECTS', 'start': 240}]"
+f7d84035-7d9d-4713-b143-1d0bf43a7539,"Duchamp dijo, ella no es que fuera futurista, es que ella es el futuro.","[{'end': 7, 'label': 'PEOPLE', 'start': 0}
+ {'end': 44, 'label': 'TOPIC', 'start': 35}
+ {'end': 70, 'label': 'TOPIC', 'start': 64}]"
+169611e1-d1a7-45f1-9ea9-2d4366d743e9,"Su pasión amorosa, a la que concedió una enorme importancia, toda su vida está deliberadamente silenciosa en su obra filosófica.","[{'end': 17, 'label': 'TOPIC', 'start': 0}
+ {'end': 127, 'label': 'TOPIC', 'start': 109}]"
+068cded2-747b-4c4a-9453-84436298996f,"Ayer puse un tuit que rápidamente borré, que era... ¿Qué tópico es, si lo borré, porque escribo y lo borro?","[{'end': 17, 'label': 'TOPIC', 'start': 13}]"
+942fc74c-4ccc-425d-adeb-ab2a60502b97,"Bueno, Lucía, hoy vamos a hablar de la huida.","[{'end': 12, 'label': 'PEOPLE', 'start': 7}
+ {'end': 44, 'label': 'TOPIC', 'start': 39}]"
+9a13a73f-8e0e-4227-91ce-bc35cf4469d6,"Nada, que estoy en el supermercado comprandome un tomate y un aguacate.","[{'end': 34, 'label': 'PLACES', 'start': 22}
+ {'end': 56, 'label': 'OBJECTS', 'start': 50}
+ {'end': 70, 'label': 'OBJECTS', 'start': 62}]"
+0d981999-0b57-4310-ad8e-74cd14467fb4,Solo puede ser un psicópata o el amor de tu vida.,"[{'end': 48, 'label': 'TOPIC', 'start': 33}]"
+68227948-cb30-4112-b808-93497de30ba3,"Bien, cómo cuenta Monachollet en su libro, belleza fatal, belleza fatal.","[{'end': 56, 'label': 'BOOKS', 'start': 43}
+ {'end': 29, 'label': 'PEOPLE', 'start': 18}]"
+119845db-9db7-4b4d-9395-7270319563fa,"O sea, si a Arendt le pasó, te puede pasar.","[{'end': 18, 'label': 'PEOPLE', 'start': 12}]"
+e89e3b3e-83b9-42a5-b827-b5c67481c3b7,"Claro, tú imagínate que estás en esas escenas con tus amigas, todas como de clase media, burguesas directamente.","[{'end': 87, 'label': 'TOPIC', 'start': 76}
+ {'end': 98, 'label': 'TOPIC', 'start': 89}]"
+364f1198-c03f-48dd-bf1e-f978b4e9e77f,"Lo más importante, tenemos a un Charlton Heston increíble de guapa, o sea, y de peligrosa, una mujer fatal clásica.","[{'end': 47, 'label': 'PEOPLE', 'start': 32}]"
+65cbbf1d-5fda-4372-b518-856f06f5cd9d,Y además ya empiezas ya a cabrearte como una mona.,"[{'end': 49, 'label': 'ANIMALS', 'start': 45}]"
+891182b5-c748-4520-b7b0-3ecad61d3465,"Porque estamos rodeadas de terraplanistas, de machistas, ultraderechistas y viene un apocalipsis climático que a verás tú qué divertido va a ser eso.","[{'end': 41, 'label': 'TOPIC', 'start': 27}
+ {'end': 106, 'label': 'TOPIC', 'start': 85}]"
+bd63d10b-3743-489c-938e-d02317eb8cd9,"De Almax, hoy vengo a hablar del aniquilador de Almax por el telé... Esa que... Por excelencias, ¿eh?","[{'end': 8, 'label': 'ORGANIZATIONS', 'start': 3}
+ {'end': 53, 'label': 'FILMS', 'start': 33}]"
+06b26459-c30f-4f76-8b6c-6a3b22fe91ff,"A diferencia de la fantasía de la mujer fatal que es agresiva sexualmente y, por tanto, en la imagen audiovisual es lo opuesto a la familia, como decíamos, el hombre fatal te ofrece todo aquello que crees que le falta a tu vida.","[{'end': 45, 'label': 'TOPIC', 'start': 19}
+ {'end': 112, 'label': 'TOPIC', 'start': 94}
+ {'end': 171, 'label': 'TOPIC', 'start': 159}
+ {'end': 139, 'label': 'TOPIC', 'start': 132}]"
+6dc334fa-3c11-48fd-bfb9-e3d1010d7fa8,"En la cena, François notó que las miraba y que incluso actuaba desde su mesa para ellos.","[{'end': 20, 'label': 'PEOPLE', 'start': 12}]"
+25e83273-cb33-4c7f-ab7f-d6e6ae72c305,"Es que te puedes enamorar de un tío, o por lo menos te puede poner sexualmente de una manera, como una moto, moto, moto, moto, moto, moto.","[{'end': 25, 'label': 'TOPIC', 'start': 17}
+ {'end': 107, 'label': 'OBJECTS', 'start': 103}]"
+9d3a893b-2d2f-44c9-a76f-8f47e502aca6,"Hesel lo corrige con esta maravillosa historia del arte donde hay centenares y miles de mujeres artistas, sus vidas y obras reflejadas que recomiendo desde la edad media hasta ahora mismo.","[{'end': 5, 'label': 'PEOPLE', 'start': 0}
+ {'end': 55, 'label': 'TOPIC', 'start': 38}]"
+fca5b034-ca0a-4c53-9bf3-b7b77a3770ac,Y que la coman los gusanos de Dios.,"[{'end': 34, 'label': 'TOPIC', 'start': 30}]"
+60671f94-680b-4013-b4af-19e0b7841895,"Que la fotografió Alfred Stiglitz también dijo que era obra de una mujer, el que le hizo la foto.","[{'end': 33, 'label': 'PEOPLE', 'start': 18}]"
+045b7721-3581-4536-a827-8b61c9f8b8cc,"Entonces dice, ellos son pusilarimes pero no negativos, ellas son poderosas pero no feministas, y hay una... El teórico Halberstam, que tiene una lectura de la película que fascina, que dice, instinto básico, trata sobre una comisaría homófoba y machista, que es amenazada por unas lesbianas fuera de la ley.","[{'end': 130, 'label': 'PEOPLE', 'start': 120}
+ {'end': 207, 'label': 'FILMS', 'start': 192}]"
+f306a7a2-589a-45d5-afdd-0cee839a5771,"Y ella, como era una drama, una señora listísima, fantástica, que intelectualizaba todo para Arendt, siempre estuvo en segundo plano sus reflexiones sobre el amor, consideraba que el amor no era sobre algo que habría que... Debatir.","[{'end': 99, 'label': 'PEOPLE', 'start': 93}
+ {'end': 162, 'label': 'TOPIC', 'start': 158}]"
+2a60d293-dd34-4e33-8e43-12a6d441c1bd,"Ella tiene un libro maravilloso, que se llama Vida con Picasso, que es una biografía de ella con él.","[{'end': 62, 'label': 'BOOKS', 'start': 46}]"
+801a4b19-79f5-4780-b638-b42938856d7b,"Dice Virginia Woolf, convertir en serio lo que a un hombre le parece insignificante y en trivial lo que para un hombre es importante, esa es la clave, esta es la clave de nuestro podcast, es la clave del feminismo, es la clave del secreto de cambiar el mundo.","[{'end': 19, 'label': 'PEOPLE', 'start': 5}
+ {'end': 213, 'label': 'TOPIC', 'start': 204}]"
+44f58c20-ffbd-4844-b7a0-66c9e8611db6,"Claro, explica tú siendo Arendt, judía, perseguida en Alemania, encarcelada y escapando emigrando a Estados Unidos por el nazismo.","[{'end': 31, 'label': 'PEOPLE', 'start': 25}
+ {'end': 62, 'label': 'PLACES', 'start': 54}
+ {'end': 114, 'label': 'PLACES', 'start': 100}
+ {'end': 129, 'label': 'TOPIC', 'start': 122}]"
+69efd9ad-5fd2-4abc-b901-f00d8b2ab93e,"Antes me prefería haber ti, Davies.","[{'end': 34, 'label': 'PEOPLE', 'start': 28}]"
+dd989e05-a984-4069-abb0-6974812aa6ff,"Pero con un hombre fatal, lo que él entiende de lo que tú haces es que a las 3 de la mañana estás pensando en él y que ya saben qué bar estás, probablemente con quién y aquí ahora llegarás a casa.","[{'end': 135, 'label': 'PLACES', 'start': 132}
+ {'end': 91, 'label': 'DATES', 'start': 77}
+ {'end': 195, 'label': 'PLACES', 'start': 191}]"
+2fddf42d-54bf-4d3e-bf3c-5ed16bb6946b,"Pero, ojo, es perfecto, porque cuando necesites caballerosidad, atención, incluso a un futuro sellado y confirmado de familia e hijos, él estará ahí también, él te ofrece eso.","[{'end': 62, 'label': 'TOPIC', 'start': 48}]"
+fc5aa963-9ed7-47ce-9529-71aa773b7b3c,"Habiendo siete películas en cartel en la que los hombres matan a las mujeres, hay que bocotear una película con contrapeso, relecturas e ironía de postmodernidad.","[{'end': 161, 'label': 'TOPIC', 'start': 147}]"
+7a722f7c-32e6-4e79-bd7e-28e1d8244287,Ven sus obras y son un poco testigos de lo que pasaba allí en el número 7 de la Guille de Grand-Augustin.,"[{'end': 104, 'label': 'PLACES', 'start': 80}]"
+f766b28f-7321-4c7d-8b5a-715f24b12880,"Fíjate lo bien que le fue al Paris Hilton o Esperanza Aguirre haciéndose las tontas, por cierto, paradójicamente, o sea, las dos forradas en los realities y en la política, son un poco lo mismo, a veces nos engañemos.","[{'end': 41, 'label': 'PEOPLE', 'start': 29}
+ {'end': 61, 'label': 'PEOPLE', 'start': 44}
+ {'end': 154, 'label': 'TOPIC', 'start': 145}
+ {'end': 171, 'label': 'TOPIC', 'start': 163}]"
+8ef7b5eb-8f12-4a6a-84c7-0f795cca68ad,"Vender la apocalipsis y no sabremos hacer nada, no sabemos desoyar un jabalí, ni cuáles son las plantas venanosas si te la señalan, se tecarán las fundas de los dientes con el paso del tiempo, se te encrespará el pelo sin tu mascarilla de keratina y estarás citando a Vivian Gornick o a Gramchi, ¿vale?","[{'end': 282, 'label': 'PEOPLE', 'start': 268}
+ {'end': 294, 'label': 'PEOPLE', 'start': 287}
+ {'end': 76, 'label': 'ANIMALS', 'start': 70}]"
+a0c9c185-956c-49c3-8b62-6953f4a8d8de,"Hace la estúpida, pero aprende que el futuro ya está aquí y te necesitamos bien despierta para la revolución.","[{'end': 44, 'label': 'TOPIC', 'start': 38}
+ {'end': 108, 'label': 'TOPIC', 'start': 98}]"
+0eea1813-d156-4450-ab10-2c649de3c9f6,"Mónica, digo tu nombre de verdad.","[{'end': 6, 'label': 'PEOPLE', 'start': 0}]"
+e438c109-4631-485a-8619-a36a571b75e3,"Como la de Martirio, un poco todo.","[{'end': 19, 'label': 'PEOPLE', 'start': 11}]"
+23b19487-5baa-43b3-8573-8fb730a221eb,A las tres de la mañana cuando te desvelas.,"[{'end': 23, 'label': 'DATES', 'start': 6}]"
+010a51b6-9580-4f81-8745-8a7676009288,"Ahí había de todo, desde una habitación llena de pajaros exóticos, en jaulas de mimbre, otro aposento lleno de esculturas, estancias llenas de sofá luis 13, donde había mandolinas, guitarras, etcétera, que luego ellas habían visto en sus cuadros cubistas.","[{'end': 39, 'label': 'PLACES', 'start': 29}
+ {'end': 101, 'label': 'PLACES', 'start': 93}
+ {'end': 132, 'label': 'PLACES', 'start': 123}
+ {'end': 155, 'label': 'TOPIC', 'start': 143}
+ {'end': 254, 'label': 'TOPIC', 'start': 238}
+ {'end': 56, 'label': 'ANIMALS', 'start': 49}
+ {'end': 121, 'label': 'OBJECTS', 'start': 111}
+ {'end': 179, 'label': 'OBJECTS', 'start': 169}
+ {'end': 190, 'label': 'OBJECTS', 'start': 181}]"
+a4c14f91-c41b-4273-894f-e8e594bbc729,"Tienes sentido, menudo cachocabrón, a zorra putona.","[{'end': 43, 'label': 'ANIMALS', 'start': 38}]"
+024fab22-80ec-457e-b040-4b86ca6801c2,"El amor diario que te toquen, la amabilidad diaria, que se ocupen de ti, que te conozcan profundamente, eso es maravilloso y no es nada antifeminista porque querer eso, ¿no?","[{'end': 149, 'label': 'TOPIC', 'start': 136}
+ {'end': 7, 'label': 'TOPIC', 'start': 3}
+ {'end': 43, 'label': 'TOPIC', 'start': 33}]"
+5e44ddbd-f28a-493c-8e73-d1673242b1ef,"Y como dice que esto me encanta, un teórico de Verhoeven, del director de la película, no se sabe si la pelea es una parodia sobre la misoginia o si es la película más misoginia de todos los tiempos.","[{'end': 56, 'label': 'PEOPLE', 'start': 47}
+ {'end': 143, 'label': 'TOPIC', 'start': 134}]"
+16550762-1a61-4948-a07b-be248afe1eae,"Todo es plano contra plano con Nick, con Michael Douglas.","[{'end': 35, 'label': 'PEOPLE', 'start': 31}
+ {'end': 56, 'label': 'PEOPLE', 'start': 41}]"
+2d7c0c5c-6ae0-4596-982e-1733c5f9aaf0,"Siempre estaba lleno de gente, de amigos, de curiosos, de marchantes, aquella casa era un santuario, porque Picasso era una estrella, Lucía, y va la gente a verle a París.","[{'end': 115, 'label': 'PEOPLE', 'start': 108}
+ {'end': 170, 'label': 'PLACES', 'start': 165}]"
+a953511b-4320-498f-9196-69a62b221932,"Charlonestone es una asesina, pero también es una amenaza simbólica por su sexualidad liberada y a la que le imaginamos comportamientos sádicos por cómo se maneja con Michael Douglas y por él.","[{'end': 13, 'label': 'PEOPLE', 'start': 0}
+ {'end': 182, 'label': 'PEOPLE', 'start': 167}]"
+61c7cacd-cd74-4dc7-905f-35cbf84f317f,"Uy, ves, ya estoy, como se llama la película, Paul Tergués, bien.","[{'end': 58, 'label': 'PEOPLE', 'start': 46}]"
+6e0975fd-5b3c-4265-ad8e-de8732dd0acb,"No estoy hablando de los cuernos, digo lo de que sientes amor y que se resisten al amor.","[{'end': 61, 'label': 'TOPIC', 'start': 57}]"
+1e21091e-c551-4f54-bb46-b79d45e87af9,"Situaciones de la existencia como el trabajo, el amor, la moral, la pertenencia política.","[{'end': 44, 'label': 'TOPIC', 'start': 37}
+ {'end': 53, 'label': 'TOPIC', 'start': 49}
+ {'end': 63, 'label': 'TOPIC', 'start': 58}
+ {'end': 88, 'label': 'TOPIC', 'start': 68}]"
+900d61a8-bcd7-46fb-b785-33a3c519fd73,"Todo el mundo las abraza, les da dinero, las quieren, no les votan, no, por machismo, paternalismo, por imbecilidad propia, lo que sea.","[{'end': 84, 'label': 'TOPIC', 'start': 76}
+ {'end': 98, 'label': 'TOPIC', 'start': 86}]"
+235382e3-586e-4efa-b535-a2f9eca6ebd2,"La vida está llena de paradojas, amigas, amigas, paradojas.","[{'end': 31, 'label': 'TOPIC', 'start': 22}]"
+7082e9ac-5f64-4355-98ff-48bf38f25938,"¡Vale la pena, lo que era necesario para estar contigo, amor!","[{'end': 60, 'label': 'TOPIC', 'start': 56}]"
+294f4c94-f019-41c2-8303-a7341aa3e608,"Y una pequeña jaula para pájaros con un canario vivo, un poco mustio que tiene colgado del cuello.","[{'end': 32, 'label': 'ANIMALS', 'start': 25}
+ {'end': 47, 'label': 'ANIMALS', 'start': 40}]"
+20f33bc6-7326-4b30-9d9e-4337aee70a67,"Se casa tres veces, siempre con hombres homosexuales o impotentes.","[{'end': 52, 'label': 'TOPIC', 'start': 32}]"
+f7df90aa-465f-4487-9b6e-6e2400210f54,"Era fascinante, era un parque de atracciones, y sobre todo era el paraíso para unas pintoras en ciernes, como era Fonsu Agilo.","[{'end': 125, 'label': 'PEOPLE', 'start': 114}
+ {'end': 44, 'label': 'PLACES', 'start': 23}]"
+3e2b7abd-022e-49c2-b550-00c38509be05,"Después de leer la correspondencia de Duchamp con su hermana, parece ser que el urinario, conocido como la fuente, una de las obras más influyentes del arte del siglo XX, de 1917, puede que no fuera de Duchamp, sino que fuera un objeto que le mandara la varónesa Elsa a él.","[{'end': 45, 'label': 'PEOPLE', 'start': 38}
+ {'end': 88, 'label': 'OBJECTS', 'start': 80}
+ {'end': 113, 'label': 'OBJECTS', 'start': 107}
+ {'end': 169, 'label': 'DATES', 'start': 161}
+ {'end': 178, 'label': 'DATES', 'start': 174}
+ {'end': 209, 'label': 'PEOPLE', 'start': 202}
+ {'end': 267, 'label': 'PEOPLE', 'start': 263}]"
+10b4d350-4f2f-4354-830c-fc2c8687e74f,"Yo no puedo, por ejemplo, no tomar matequilla por las mañanas.","[{'end': 45, 'label': 'OBJECTS', 'start': 35}]"
+ca8d61ee-c95a-4c03-b5c5-5162b4c2c1c2,"Escrito por ella y por Carlton Lake, donde narras esos 10 años llenos de creatividad, pero también y sobre todo de tormento.","[{'end': 35, 'label': 'PEOPLE', 'start': 23}]"
+394ef9c6-c82d-4c62-a12f-df9699bfee05,Postre destruido me parece lo más.,"[{'end': 6, 'label': 'OBJECTS', 'start': 0}]"
+5a746748-cc62-4b34-9e25-c5a486fd3866,"Las que no son de las fachas estas y hablan del déficit fiscal estructural y dices, ajá, ajá, ¿no?","[{'end': 74, 'label': 'TOPIC', 'start': 48}]"
+bad4397f-0161-4ccf-b430-2a788ca679d3,Y debajo se lo lleva un sujetador hecho con dos latas de tomate y una cuerda verde.,"[{'end': 8, 'label': 'PLACES', 'start': 2}
+ {'end': 33, 'label': 'OBJECTS', 'start': 24}
+ {'end': 63, 'label': 'OBJECTS', 'start': 44}
+ {'end': 82, 'label': 'OBJECTS', 'start': 66}]"
+653d0cf8-8d70-4605-81f6-579b49e66a03,"Hola, bien, nosotros somos pintoras, pero bueno, Alain Coulis, no me las presentas, tal.","[{'end': 61, 'label': 'PEOPLE', 'start': 49}]"
+fc013e75-7e93-44dd-92f2-5bb43ff7b0de,"Finalmente, Picasso se levanta y lleva consigo un frutero lleno de cerezas para ofrecerles todo.","[{'end': 19, 'label': 'PEOPLE', 'start': 12}
+ {'end': 57, 'label': 'OBJECTS', 'start': 50}]"
+9d5ddf4a-a155-4ba9-b249-0419034253da,"La pieza, recordemos, fue rechazada absolutamente por la sociedad de artistas independientes.","[{'end': 92, 'label': 'TOPIC', 'start': 57}]"
+6acfc58e-8781-47f9-ba9a-efc791bcef96,Pides una tarta de manzana y te traen una montañita de mermelada de manzana y polvo de galleta.,"[{'end': 15, 'label': 'OBJECTS', 'start': 10}
+ {'end': 64, 'label': 'OBJECTS', 'start': 55}
+ {'end': 94, 'label': 'OBJECTS', 'start': 78}]"
+c9221d71-77c2-4e61-99a2-c95bca2c80de,"Bueno, esta es la inteligente, a François, y esta es la guapa Geneviève, las dos pintoras, sí.","[{'end': 41, 'label': 'PEOPLE', 'start': 33}
+ {'end': 71, 'label': 'PEOPLE', 'start': 62}]"
+b4578b71-0b56-4826-b59d-9455ef619e76,"Nos puede pasar a nosotras, que nos vamos a Arendt, que hablamos de Chanel.","[{'end': 50, 'label': 'PLACES', 'start': 44}
+ {'end': 74, 'label': 'PEOPLE', 'start': 68}]"
+43b01e69-a81b-4056-86c3-1d4af75bd40e,"Por desear el amor y creerte egoísta, porque el mundo está fatal y que te sientas superreconocida por tus amigos y en tu trabajo y no sé qué.","[{'end': 18, 'label': 'TOPIC', 'start': 14}
+ {'end': 128, 'label': 'TOPIC', 'start': 121}]"
+febd10d4-8364-42ac-b75f-6927c19d640f,"Y efectivamente, Lucía, yo, chiquitita, joder, existo muchísimo, Lucía.","[{'end': 22, 'label': 'PEOPLE', 'start': 17}]"
+18f7ae34-6963-442f-bb17-9c5b47fdb633,"Entre las cosas que hacía era llevar tartas, tartas, pasteles, a modo de sombrero.","[{'end': 43, 'label': 'OBJECTS', 'start': 37}
+ {'end': 51, 'label': 'OBJECTS', 'start': 45}
+ {'end': 61, 'label': 'OBJECTS', 'start': 53}
+ {'end': 81, 'label': 'OBJECTS', 'start': 73}]"
+da2a8cbe-d3a1-438f-8562-2b15b4801fc5,"Recordemos que la obra está afirmada con el pseudónimo R. Mut, en 1917.","[{'end': 61, 'label': 'PEOPLE', 'start': 55}
+ {'end': 70, 'label': 'DATES', 'start': 66}]"
+0829233b-be21-41dd-bffc-02d02de9e948,¿Sabes dónde está el norte simplemente mirando la posición de las estrellas?,"[{'end': 26, 'label': 'PLACES', 'start': 21}
+ {'end': 75, 'label': 'OBJECTS', 'start': 66}]"
+8dd6109a-d608-496e-abdd-0d4806395799,"Mira, apuntemos este minuto porque lo recordaré.","[{'end': 27, 'label': 'DATES', 'start': 21}]"
+9aa52c09-4a6b-40f0-beae-cf356894ff37,"Monachollet, belleza fatal, eh, en New York.","[{'end': 11, 'label': 'PEOPLE', 'start': 0}
+ {'end': 43, 'label': 'PLACES', 'start': 35}]"
+05954780-5a7a-4c40-bf94-4c17c9de6015,¡Ever since the day that you went away!,"[{'end': 39, 'label': 'SONGS', 'start': 1}]"
+3b848c29-dc0c-4923-8e38-06078a357f63,"En fin, lo otro, bien, racistas, bueno, pues sí, los somos todos, tenemos que desconstruirnos, Lucía, e intentamos no serlo, veganas no somos.","[{'end': 100, 'label': 'PEOPLE', 'start': 95}]"
+d9166b7e-a6a2-4ae5-918f-f024574125e9,¿Cómo te vas a resistir al amor?,"[{'end': 31, 'label': 'TOPIC', 'start': 27}]"
+a06b1a10-eb5f-409f-bfb1-bc3d091da7ea,"Ella exhibe su sexo, algo pocas veces visto en el cine mainstream desde el punto de vista activo de una mujer.","[{'end': 65, 'label': 'TOPIC', 'start': 50}]"
+c6125b22-0868-4aa9-8b97-6f7e27d977dd,"Perdón, los animalistas o lo que sea.","[{'end': 23, 'label': 'PEOPLE', 'start': 12}]"
+c0ad025f-1bb5-4685-b841-308e5eb1b47f,"Mirándote a cámara, te lo digo.","[{'end': 18, 'label': 'OBJECTS', 'start': 12}]"
+a9c98246-71a9-4516-8635-2fbe66c39a38,"Y ella me está invisibilizando, Lucía.","[{'end': 37, 'label': 'PEOPLE', 'start': 32}]"
+b2b06daa-1370-4459-9ea7-09d6844252e8,"Según el cine, es imposible que una mujer atraiga un hombre más joven si no es para matarla.","[{'end': 13, 'label': 'TOPIC', 'start': 9}]"
+35dca5dd-df3f-4e83-bbb4-484ea089b5ce,"Además, no aprendiste a conducir porque tú muy feminista, pero que conduzca él y las emisiones son malísimas para el medio ambiente y que se joda el PP en la Comunidad de Madrid, yo voy en metro, en Madrid Central, yo soy de izquierda, sé de la tope, pero cuando se acaba el metro, porque no habrá electricidad o carbón o lo que se necesite para que funcione el metro, porque no lo sé, porque soy estúpida, no soy ingeniera y tú también compañera verás que no hay ubers en el apocalipsis, imbécil, estás brotada","[{'end': 151, 'label': 'ORGANIZATIONS', 'start': 149}
+ {'end': 177, 'label': 'PLACES', 'start': 158}
+ {'end': 213, 'label': 'PLACES', 'start': 199}
+ {'end': 234, 'label': 'TOPIC', 'start': 225}
+ {'end': 487, 'label': 'TOPIC', 'start': 476}]"
+e28cb9ee-cd15-40b1-aea4-373444dedbf5,"Y una piensa, Pili, que está ahí al fondo, piensa, bueno, yo soy astróloga-youtuber.","[{'end': 18, 'label': 'PEOPLE', 'start': 14}
+ {'end': 83, 'label': 'TOPIC', 'start': 65}]"
+6528071a-f127-4d2b-8719-527f29efd6f1,"Aún así te vas a cagar encima, compañera, cuando pilles el cólera por no saber hacer una letrina, porque no sabemos hacer una letrina o un sistema de canalización de residuos, no sabemos lo que era una tubería, hasta hace cinco minutos, ahí no estará Tele5 para ayudarte, amigo.","[{'end': 256, 'label': 'ORGANIZATIONS', 'start': 251}
+ {'end': 209, 'label': 'OBJECTS', 'start': 202}]"
+e41225df-5921-45da-a33b-9c3efc409626,¿Por qué en los restaurantes modernos ya no sirven postres construidos sino destruidos?,"[{'end': 37, 'label': 'TOPIC', 'start': 16}]"
+616ae522-69ba-4dd3-831c-8b934240d654,"Elsa, la varónesa, antes que Duchamp ya recogía objetos por la calle y los llamaba obras de arte, lo hizo con un trozo de madera a la que llamó catedral, un trozo de cañería unido a una caja a la que llamó dios o un anillo de metal oxidado que llamó adorno duradero.","[{'end': 4, 'label': 'PEOPLE', 'start': 0}
+ {'end': 68, 'label': 'PLACES', 'start': 60}
+ {'end': 36, 'label': 'PEOPLE', 'start': 29}
+ {'end': 96, 'label': 'TOPIC', 'start': 83}
+ {'end': 128, 'label': 'OBJECTS', 'start': 113}
+ {'end': 173, 'label': 'OBJECTS', 'start': 157}
+ {'end': 190, 'label': 'TOPIC', 'start': 186}
+ {'end': 239, 'label': 'OBJECTS', 'start': 216}]"
+39edbfc7-2441-4a3f-85b3-8cdba22d5c14,Lo más difícil es vivir en abundancia en el presente sin dejar que se manche por miedo al futuro o el arrepentimiento por el pasado.,"[{'end': 37, 'label': 'TOPIC', 'start': 27}
+ {'end': 86, 'label': 'TOPIC', 'start': 81}
+ {'end': 96, 'label': 'TOPIC', 'start': 90}
+ {'end': 117, 'label': 'TOPIC', 'start': 102}
+ {'end': 131, 'label': 'TOPIC', 'start': 125}]"
+67363b32-3842-4bd1-8efa-1e359c256938,"No hay más que habla explícitamente cocaína, no sé qué, claramente es la culpable.","[{'end': 43, 'label': 'TOPIC', 'start': 36}]"
+1d10846d-d1f4-457c-826f-15145d265894,Yo no me puedo hacer una tostada de aguacate.,"[{'end': 2, 'label': 'PEOPLE', 'start': 0}
+ {'end': 44, 'label': 'OBJECTS', 'start': 36}]"
+534cb15e-3d66-484b-a7fa-5fcc92cf5d03,"Bueno, se siempre me rodea en casa.","[{'end': 34, 'label': 'PLACES', 'start': 30}]"
+42ef235b-bd67-4634-bcf2-8cd55436c719,"Te recuerdo que tú me llamas para preguntarme dónde hay una mercería en Madrid, ¿eh?","[{'end': 78, 'label': 'PLACES', 'start': 72}]"
+0bb2760a-1085-4958-ad9d-cbb3aa661300,"Vamos a ver, el amor diario, hablo de una pareja, que te toquen, que te toquen, simplemente con que te toquen, que te tocan, luego existes.","[{'end': 27, 'label': 'TOPIC', 'start': 16}]"
+b36b6575-ccd2-4e4b-9a42-4fb1bc0d5d09,"Yo creo que no, lo siento para la concursanta, o sea, estar solteras fenomenal, o estar con parejas, un coñazo, todo, cuando pasa el tiempo, que hacemos un poco los cuernos, lo hago relación abierta, o que digo que no, que el deseo disminuye, lo sabemos todo, no sabemos qué hacer, era la duda.","[{'end': 198, 'label': 'TOPIC', 'start': 182}]"
+4081e240-f2c2-45dd-b562-174194fe4071,"Y, en fin, Geneveve ya pasaba de todo, y Picasso un buen día, cuando Fonsu Agilo vale al taller, pues la besa.","[{'end': 19, 'label': 'PEOPLE', 'start': 11}
+ {'end': 48, 'label': 'PEOPLE', 'start': 41}
+ {'end': 80, 'label': 'PEOPLE', 'start': 69}]"
+ccb4a32f-4d11-4a3b-a122-1ee17b8dc41a,"Y Michael Douglas, que es el detective que tiene que resolver un asesinato, es completamente pasivo y simplemente reacciona ante las cosas que ella hace.","[{'end': 17, 'label': 'PEOPLE', 'start': 2}
+ {'end': 74, 'label': 'TOPIC', 'start': 65}]"
+603622a7-d663-44a3-9923-b17ad43364e5,"No, no, soy, bueno, se vuelven infollables y los malos te atraen como atrae la luz a Caroline, bien.","[{'end': 93, 'label': 'PEOPLE', 'start': 85}]"
+30656c5b-d065-4465-9d79-1906352c3225,"El rechazo a abrazar la complejidad textual de estas películas, como nos cuenta Franzina, se sitúa en las antípodas de la tradición camp de apropiación iconográfica y cultural del colectivo, apropiémonos de esto y juguemos con eso.","[{'end': 88, 'label': 'PEOPLE', 'start': 80}
+ {'end': 175, 'label': 'TOPIC', 'start': 140}]"
+a5e3b6f6-800c-48a0-9256-6a68e138e685,"Es muy importante, Lucía Ligmaer, estar en la vida donde se quiere estar.","[{'end': 32, 'label': 'PEOPLE', 'start': 19}]"
+0c5a1bb9-193f-4f8b-a4d0-f594c39b5a56,"Vamos al cajero, nos habla el del banco y nos dice algo de la agencia tributaria, el impuesto 303 y no tenemos ni puta idea de lo que está hablando, pero nada.","[{'end': 15, 'label': 'PLACES', 'start': 9}
+ {'end': 39, 'label': 'ORGANIZATIONS', 'start': 34}
+ {'end': 80, 'label': 'ORGANIZATIONS', 'start': 62}
+ {'end': 97, 'label': 'TOPIC', 'start': 85}]"
+8ecea0db-2bd2-4045-a2cf-8a36d53fb598,Y discutes apasionadamente sobre cómo te preparas el aguacate.,"[{'end': 61, 'label': 'OBJECTS', 'start': 53}]"
+44b9460e-67d8-4f14-b719-e53320a32253,"La mujer y la feminidad está inscrita en el universo a escala reducida, a escala reducida.","[{'end': 23, 'label': 'TOPIC', 'start': 0}
+ {'end': 52, 'label': 'PLACES', 'start': 44}]"
+dace9239-f520-4d37-af32-1d9dc953cd7b,"François Gilles conoce a Picasso en 1943 durante la ocupación alemana en Francia, quedando dos años para que termine la guerra.","[{'end': 15, 'label': 'PEOPLE', 'start': 0}
+ {'end': 32, 'label': 'PEOPLE', 'start': 25}
+ {'end': 40, 'label': 'DATES', 'start': 36}
+ {'end': 80, 'label': 'TOPIC', 'start': 52}
+ {'end': 99, 'label': 'DATES', 'start': 91}
+ {'end': 126, 'label': 'TOPIC', 'start': 120}]"
+28e58270-97eb-4942-a499-e142950dcd79,"El feminismo luciál y jmader concursantas nos ha ayudado mucho a las mujeres a sentirnos mejor, más seguras, menos culpables, ¿no?","[{'end': 12, 'label': 'TOPIC', 'start': 3}]"
+e8c1d583-944c-4ee6-8a9d-8f7520ee537e,"Cuando te enseñan un piso y te dicen, ¿esto es orientación oeste, eso es buenísimo y tú te quedas con cara de gilipollas, tienes dos másteres en género y gestión cultural y tu novio, un marketing digital y no sabes dónde está el puto este.","[{'end': 170, 'label': 'TOPIC', 'start': 145}
+ {'end': 203, 'label': 'TOPIC', 'start': 186}]"
+52260158-445d-46aa-8ddb-a2fc143b9359,Aprende a crear un tampón o una compresa a partir de las flores de algodón que florecen en septiembre.,"[{'end': 74, 'label': 'OBJECTS', 'start': 67}
+ {'end': 101, 'label': 'DATES', 'start': 91}
+ {'end': 63, 'label': 'OBJECTS', 'start': 57}]"
+2fd32c81-b435-44ac-aa86-a1e7e2740dda,"Ya... No, es que una vez que tú lo sabes, me fui a vivir con una pareja a las tres semanas y estuvimos diez años.","[{'end': 90, 'label': 'DATES', 'start': 78}
+ {'end': 112, 'label': 'DATES', 'start': 103}]"
+d79fb157-3426-4c94-9edf-2b2f9c86fba2,"No sabemos poner una cremallera, ni cambiar un enchufe.","[{'end': 31, 'label': 'OBJECTS', 'start': 17}
+ {'end': 54, 'label': 'OBJECTS', 'start': 44}]"
+c3aac8e4-9f28-48b2-80a0-757cd369e205,"Ven sus obras, y son un poco testigos de lo que pasaba allí en el número 7 de la Guille de Grand-Augustin.","[{'end': 105, 'label': 'PLACES', 'start': 81}]"
+93a9c1cd-27e3-4320-8cd1-009364870679,¿Acaso es fascista pedir un poco de estructura en la comida?,"[{'end': 59, 'label': 'TOPIC', 'start': 53}]"
+683271b6-f303-4259-be9a-69604584a7d2,"Mi pregunta es, ¿por qué vas a restaurantes modernos?","[{'end': 52, 'label': 'PLACES', 'start': 31}]"
+a8ab6bd0-a859-4dcd-b22d-dca110e87e92,"Yo hoy voy a hablar de mujeres en el mundo del arte, porque me ha leído un libro fantástico que se llama Historia del arte sin hombres, de Katie Hesel.","[{'end': 150, 'label': 'PEOPLE', 'start': 139}
+ {'end': 134, 'label': 'BOOKS', 'start': 105}]"
+edf8cd5a-61bd-4e84-b880-e1618050a284,"Cuenta el pintor modernista George Biedel, un día que esto lo cuenta Sergio Parra en un artículo, que un día que iba a hacer de modelo para él, cuando él le pide que Poth se desnuda, ella se quita la gabardina de color rojo que lleva.","[{'end': 41, 'label': 'PEOPLE', 'start': 28}
+ {'end': 81, 'label': 'PEOPLE', 'start': 69}
+ {'end': 170, 'label': 'PEOPLE', 'start': 166}
+ {'end': 209, 'label': 'OBJECTS', 'start': 200}]"
+630e54e7-c4fe-4d05-afb1-e96ce34d6a15,"Voy a empezar con la baronesa von Freitag Lorenhoven, también conocida como mamadada.","[{'end': 52, 'label': 'PEOPLE', 'start': 21}]"
+310ae75e-a69a-4f75-9882-28611c8f577f,"Yo soy lista, ja ja, no soporto a los serpientes, yo mejoro la especie humana, ¿no?","[{'end': 48, 'label': 'ANIMALS', 'start': 38}
+ {'end': 77, 'label': 'TOPIC', 'start': 63}]"
+b1a74fb3-74ca-4ebf-a692-037fc6612a2f,"Cómo cuenta Monachollet, que es una señora que se ha hecho nuestra mejor amiga, que es fantástica y tiene un hombre que vaya a un hombre que tiene, que con eso llegas Alemerest y Jamia porque es que... Monachollet es una grande, eh, que es una grande total.","[{'end': 23, 'label': 'PEOPLE', 'start': 12}
+ {'end': 176, 'label': 'PEOPLE', 'start': 167}
+ {'end': 184, 'label': 'PEOPLE', 'start': 179}
+ {'end': 213, 'label': 'PEOPLE', 'start': 202}]"
+06da5694-d94c-4f69-8ece-0d25ec30548c,¿Por qué han desaparecido las tartas?,"[{'end': 36, 'label': 'OBJECTS', 'start': 30}]"
+61e44368-4382-42c0-833f-b9b6820fda9f,"Es así, solo pienso en el amor.","[{'end': 30, 'label': 'TOPIC', 'start': 26}]"
+ca67250a-6e09-461b-a494-f4b08ba014f7,"Si has visto la película Dormiendo con el enemigo, una peli de 1991, cuando no habíais nacido, la mayoría, una peli retro, pero en color, existía el color en 91.","[{'end': 49, 'label': 'FILMS', 'start': 25}
+ {'end': 67, 'label': 'DATES', 'start': 63}]"
+9442447a-03d5-4c6e-a171-5cdc1a1116ed,"La novela moderna debe tratar temas importantes, dice Nancy Houston, temas enormes, la muerte, el horror, el sin sentido, mi polla, la crueldad, temas importantes.","[{'end': 67, 'label': 'PEOPLE', 'start': 54}
+ {'end': 93, 'label': 'TOPIC', 'start': 84}
+ {'end': 104, 'label': 'TOPIC', 'start': 95}
+ {'end': 120, 'label': 'TOPIC', 'start': 106}
+ {'end': 143, 'label': 'TOPIC', 'start': 132}]"
+2760fdaa-227e-4894-8059-deef38cd7d21,"No sé quién es esta pintora, hacía Esperanza Aguirre.","[{'end': 52, 'label': 'PEOPLE', 'start': 35}]"
+b140c3b5-9921-4a72-b054-9f5144124081,"Pero cuando está bien una vez se hace como que no pone el piota automático, pero disfrutarlo es precioso.",[]
+01b6b42d-bc3c-492a-9c8f-1c2dc3f2817b,"Lucy, tú quieres enenterrada o incinerada, antes de continuar.","[{'end': 4, 'label': 'PEOPLE', 'start': 0}]"
+1a4ee3cc-7025-48b0-a6d1-81b93eb97fff,"Cuando gobierne los peores y caiga la lluvia ácida y no haya electricidad, ¿tú qué sabes hacer, amiga?","[{'end': 73, 'label': 'TOPIC', 'start': 61}]"
+6672ebc1-f47b-4ec3-b27f-54f9d1559ded,"por las hortigas, rascándote en un descampado, peleándote por una chocolatina con almendras y no sabrás distinguir una verza de una planta venenosa, eso es lo que va a pasar, ¿vale?","[{'end': 77, 'label': 'OBJECTS', 'start': 66}
+ {'end': 138, 'label': 'OBJECTS', 'start': 132}
+ {'end': 16, 'label': 'OBJECTS', 'start': 8}]"
+09d0cf53-c310-4032-be37-d981f08d39b1,¿Por qué ha pasado hace dos semanas?,"[{'end': 35, 'label': 'DATES', 'start': 19}]"
+9da4b634-35b3-46b8-92e1-3e06b97853c9,"Me encanta Uruchaga, por cierto.","[{'end': 19, 'label': 'PEOPLE', 'start': 11}]"
+ed47c362-81f5-4c9d-8837-28987f065ba0,"Y es de derechos humanos de importe, qué más.","[{'end': 24, 'label': 'TOPIC', 'start': 8}]"
+21022ab4-d9a0-4357-9923-a53ff8399253,"Así que me compré dos pares de Birkenstock, no una, sino dos, unas de Charol y unas negras, preciosas, mate, sí, cállate, bueno, sigo, bien.","[{'end': 42, 'label': 'PRODUCTS', 'start': 31}]"
+3405e46d-7bee-41fe-a944-a7c41b2a704a,"Esto ocurre en muchos ámbitos de la vida, entre las compañeras-compañeros de clase en el colegio, dice Stromqist, donde un fenómeno muy recurriente es que todas enamoren de la misma persona, los niñitos heteros o no heteros, bueno, lo que sea.","[{'end': 112, 'label': 'PEOPLE', 'start': 103}]"
+d3aca7b8-c55f-44a0-96a3-c749a535dac8,Pides tarta de limón y te traen una bola de lado de limón y más polvo de galleta.,"[{'end': 48, 'label': 'PLACES', 'start': 44}
+ {'end': 20, 'label': 'OBJECTS', 'start': 6}
+ {'end': 80, 'label': 'OBJECTS', 'start': 64}
+ {'end': 57, 'label': 'OBJECTS', 'start': 52}]"
+1922d664-68db-4e9a-91fb-3f28e8e04328,van a verle al estudio a Picasso.,"[{'end': 32, 'label': 'PEOPLE', 'start': 25}]"
+2e1b75a0-1cb7-4f30-800b-eb1cff78019a,Me he pasado un mes con pesadillas.,"[{'end': 34, 'label': 'TOPIC', 'start': 24}]"
+df806c20-288f-4df9-8cab-2a12465a549b,Pues toma pesadilla con tu trámita.,"[{'end': 19, 'label': 'TOPIC', 'start': 10}]"
+6d804ffb-5370-47d1-8cb9-7f3c0c5b99b5,"Pero sobre todo, y qué interesante esto, vengo a hablar a través de François Gilles.","[{'end': 83, 'label': 'PEOPLE', 'start': 68}]"
+c995c3a4-4125-4c0c-ba14-96ac7821d764,"Entonces, no podemos luchar y reivindicar la igualdad y de repente cagar la tope.","[{'end': 53, 'label': 'TOPIC', 'start': 45}]"
+59e339db-0992-4bfc-ae9a-80ff5574cfa6,"Y por eso, vengo aquí a decirte, amiga, concursanta, que tienes que convertirte en MacGyver o Endora la exploradora, tienes que hacer eso.","[{'end': 91, 'label': 'PEOPLE', 'start': 83}
+ {'end': 115, 'label': 'PEOPLE', 'start': 94}]"
+cd4e5f67-adca-412f-899c-1c0c9be166d8,"Ellas, aunque se besan, Roxy y Catherine, no se miran, no ves que haya reciprocidad.","[{'end': 28, 'label': 'PEOPLE', 'start': 24}
+ {'end': 40, 'label': 'PEOPLE', 'start': 31}]"
+e097d341-2aaf-45d4-b855-e18fd084fb41,Parece ser que la varónesa quería hacer un alegato en contra del sentimiento anti alemán después de que Estados Unidos entraran en la Primera Guerra Mundial.,"[{'end': 26, 'label': 'PEOPLE', 'start': 15}
+ {'end': 118, 'label': 'PLACES', 'start': 104}
+ {'end': 156, 'label': 'TOPIC', 'start': 134}
+ {'end': 88, 'label': 'TOPIC', 'start': 65}]"
+070decf6-045f-4d18-814b-d3bb81874702,"Y entonces, están así seis meses, cariño.","[{'end': 32, 'label': 'DATES', 'start': 22}]"
+7e1bf42f-b1bb-4a50-9db9-9293295105a7,"Cristina, ¿crees que dejándome de hablar?","[{'end': 8, 'label': 'PEOPLE', 'start': 0}]"
+1bfb03a1-e79d-4149-85ef-f5596a316d52,"Las lenguas, el tocar, te hacerlo como despacio en la calle, como las primeras citas, sabes que todavía nos encontramos en una primera cita y estamos las dos mirando como, joder.","[{'end': 84, 'label': 'TOPIC', 'start': 70}]"
+e66ba581-5997-48c3-8e17-102f588d4ddb,"Venga, bien, otra paradoja de la vida, una de las paradojas que pienso en el amor, soy feminista, bien, de acuerdo, bueno, ya.","[{'end': 37, 'label': 'TOPIC', 'start': 18}
+ {'end': 81, 'label': 'TOPIC', 'start': 77}
+ {'end': 96, 'label': 'TOPIC', 'start': 87}]"
+9a42f9ad-b1e2-471b-aafe-3455a86313cb,"O se ha colado esto, que racista o machista y no sé qué.","[{'end': 32, 'label': 'TOPIC', 'start': 25}
+ {'end': 43, 'label': 'TOPIC', 'start': 35}]"
+269a5740-a91e-48e4-8cee-07cee84ce244,Ella huye de su casa tras ser agredida por su padre y se une a la vanguardia europea y se casa y ayuda a su marido a que finja su propia muerte y así se pueden ir a Estados Unidos.,"[{'end': 84, 'label': 'TOPIC', 'start': 63}
+ {'end': 179, 'label': 'PLACES', 'start': 165}]"
+245c9321-750a-4b51-bad1-a12a69471435,"Ahora bien, se sobreentiende que las cosas grandes execran a las pequeñas, el horror detesta las margaritas silvestres y los colibríes, ¿por qué?","[{'end': 84, 'label': 'TOPIC', 'start': 78}
+ {'end': 118, 'label': 'OBJECTS', 'start': 97}
+ {'end': 134, 'label': 'ANIMALS', 'start': 125}]"
+d8b2d0e7-e52a-408a-90d3-c852afdc4844,"Como dice Margueritura, es de la que hoy voy a hablar sin parar en este podcast y creo que todo el año.","[{'end': 22, 'label': 'PEOPLE', 'start': 10}
+ {'end': 79, 'label': 'TOPIC', 'start': 72}]"
+0d605c6b-8b8a-4fcf-9f44-ede392e3c96f,"Bien, mientras que con hombres medio malos, el deseo nunca decae, es impresionante, decía.","[{'end': 52, 'label': 'TOPIC', 'start': 47}]"
+9ca10926-9564-469b-acbe-647b4ea2c3bc,"Aprende de un cuentos, de piedras, de frutas y de dinamita, sobre todo, de todo eso.","[{'end': 33, 'label': 'OBJECTS', 'start': 26}
+ {'end': 44, 'label': 'OBJECTS', 'start': 38}
+ {'end': 58, 'label': 'OBJECTS', 'start': 50}]"
+e0e5ea02-b2dc-4b20-840c-f95fce4331c5,"Además, Duchamp nunca aclaró cómo había adquirido la pieza.","[{'end': 15, 'label': 'PEOPLE', 'start': 8}]"
+08c33931-cd12-4dc2-800e-4e4ed27f2366,El ambientador de Zara me gusta.,"[{'end': 22, 'label': 'ORGANIZATIONS', 'start': 18}]"
+a8a76cd5-66f6-43dd-90c4-488c83fecf6b,"Esto le pasó a Hannah Arendt, que yo me estoy leyendo muchísimo, con Martin Heidegger.","[{'end': 28, 'label': 'PEOPLE', 'start': 15}
+ {'end': 85, 'label': 'PEOPLE', 'start': 69}]"
+2694089f-e539-4fa4-9821-d6ed5225a40f,El libro de No Siento Nada que Recomendamos lo cuenta muy bien.,"[{'end': 26, 'label': 'BOOKS', 'start': 12}]"
+600b665f-9ac3-4cd9-bbde-22c050e2ed73,Están las películas de Joan Crawford.,"[{'end': 36, 'label': 'PEOPLE', 'start': 23}]"
+79e9fa89-6e38-4925-8d32-0277ccd07ffd,"Y si esta idea os parece poco interesante, que no lo es, recordad la frase de Nora Ephron.","[{'end': 89, 'label': 'PEOPLE', 'start': 78}]"
+b98b0fd3-20ee-49d0-9261-6e1eda691a0e,Hoy hablaré solo de instinto básico del cual la película que Issa ya habló en otro podcast.,"[{'end': 35, 'label': 'TOPIC', 'start': 20}
+ {'end': 65, 'label': 'PEOPLE', 'start': 61}]"
+14488328-47fd-4d89-a483-4596e72cb75b,"Pero poco a poco, con un paso del tiempo, el deseo se me contagió, las veía por todas partes y se la ponía gente con un rollo que a mí me encantaba, a quien Barcelona estábais obsesionadas, bien.","[{'end': 166, 'label': 'PLACES', 'start': 157}]"
+e5b1f165-6ae1-45b3-a3a0-e10e76db0a4a,"Aunque Catherine es activa y el pasivo, en la relación, ella sigue funcionando como un arquetipo.","[{'end': 16, 'label': 'PEOPLE', 'start': 7}
+ {'end': 96, 'label': 'TOPIC', 'start': 87}]"
+097a103c-8447-42e0-a982-907d037c742d,"Pero yo no soy perfecta, soy capitalista, bueno, a veces un poco, pero en Zara no compró, eso es así.","[{'end': 40, 'label': 'TOPIC', 'start': 29}
+ {'end': 78, 'label': 'ORGANIZATIONS', 'start': 74}]"
+1c06602e-5c0d-48d2-a6cc-c433ff781803,"No, ¿de qué dónde se venden las agujas?","[{'end': 38, 'label': 'OBJECTS', 'start': 32}]"
+edb3a7d0-af8a-4c6d-a7ab-1de3f05df066,"Ella hacía esculturas basura y casualmente, después de lo del urinario, empezó a llamar a Duchamp Marcel Duchet.","[{'end': 111, 'label': 'PEOPLE', 'start': 98}
+ {'end': 97, 'label': 'PEOPLE', 'start': 90}]"
+e37d6961-384e-4c74-9c77-4a378048a5fd,"Te explica tú, después de todo esta carrera, ni judía y todo, que el amor de su vida era Heidegger.","[{'end': 98, 'label': 'PEOPLE', 'start': 89}]"
+ed23d542-c62c-43c5-995b-3c66c2017d41,"Para un alemán, el nombre se parece mucho a la palabra armut, que se traduce como pobreza, y en el contexto de la exposición en la que se exhibió pobreza intelectual.","[{'end': 89, 'label': 'TOPIC', 'start': 82}
+ {'end': 165, 'label': 'TOPIC', 'start': 146}]"
+bfd24af3-01a3-4879-83d8-b8cb935d937a,"Lo que hace Katie Hesel en este libro es el resultado de las exposiciones y decir que otra vez no hay mujeres en esta exposición, como todo el tiempo.","[{'end': 23, 'label': 'PEOPLE', 'start': 12}
+ {'end': 37, 'label': 'BOOKS', 'start': 27}]"
+169841eb-c41d-450c-b858-77b2d2569e30,"Bien, ella ya empezó a ir sola, porque Geneveve, que salió un poco la tostada, Geneveve ya le dice, mira, aquí este quiere lo que quiere, yo paso, ya ven tu colega, porque yo paso este señor que tiene 115 años, que le están haciendo aquí, y todo es la pelota en este taller lleno de gente.","[{'end': 47, 'label': 'PEOPLE', 'start': 39}
+ {'end': 209, 'label': 'DATES', 'start': 201}
+ {'end': 87, 'label': 'PEOPLE', 'start': 79}]"
+13633cbb-c837-4e46-892e-133eb9bfd6eb,"Vamos a aclarar que Birkenstock no patucina este programa, pero podría hacerlo.","[{'end': 31, 'label': 'PRODUCTS', 'start': 20}]"
+25dedad3-fa8a-400c-b728-275f009b3aff,"Nosotras todas ahora en este teatro pensamos, pues que bien ves, yo no soy estúpida, ¿no?","[{'end': 35, 'label': 'PLACES', 'start': 29}]"
+c8b541c1-d12d-4662-98d3-38d4f40ce0c6,"Bien, tú te cabreas como una mona.","[{'end': 33, 'label': 'ANIMALS', 'start': 29}]"
+16af1103-6891-4f41-bfa1-6d7822a10bcb,Es más que posible que ella fuera la que cambió la historia del arte del siglo XX y que la gente no lo sepa.,"[{'end': 81, 'label': 'DATES', 'start': 73}]"
+3538277c-6ce1-4893-afce-e73b0f525220,"Una señora estupenda, pintora, con la que estuvo 10 años y tuvo dos hijos, y que fue la única mujer en la vida de Picasso que le dejó.","[{'end': 121, 'label': 'PEOPLE', 'start': 114}
+ {'end': 56, 'label': 'DATES', 'start': 49}]"
+b0599f2e-90d3-4d05-968f-76e54d5ed4a8,"Porque el deseo siempre tiene que ser heterosexual en el cine, ¿no?","[{'end': 61, 'label': 'TOPIC', 'start': 57}]"
+1ef73a2a-f503-4852-b380-388d63d14b6a,"Mucho feminismo, mucho feminismo, pero luego de repente, fíjate en vuestros soes, decís, puta y zorra y coñazo y no sois veganas.","[{'end': 15, 'label': 'TOPIC', 'start': 6}
+ {'end': 128, 'label': 'TOPIC', 'start': 121}
+ {'end': 32, 'label': 'TOPIC', 'start': 23}]"
+05e47bc6-a123-484a-93ab-ccdecb369aeb,"Nadie se pregunta por qué si existen las mujeres fatales como objeto de deseo y narración y chibox piateorio, de amor, ¿dónde está su equivalente?","[{'end': 56, 'label': 'TOPIC', 'start': 41}
+ {'end': 117, 'label': 'TOPIC', 'start': 113}
+ {'end': 108, 'label': 'TOPIC', 'start': 92}]"
+53134475-2416-4487-92b3-08c576ff551b,"Te quieres emborrachar un lunes por la noche y ir a un sitio inusitado, el Museo de Cera.","[{'end': 88, 'label': 'PLACES', 'start': 75}
+ {'end': 31, 'label': 'DATES', 'start': 26}]"
+a6ee3751-8c61-49e7-9072-b8c6f075eb26,"¿Crees, Mónica, que castigándome así voy a cambiar mi comportamiento?","[{'end': 14, 'label': 'PEOPLE', 'start': 8}]"
+7c69aa88-2a21-4eaa-8512-c4fb6f062df9,"Mira, unos cacahuetes, jijiji, foto de cacahuetes.","[{'end': 21, 'label': 'OBJECTS', 'start': 11}]"
+ed9d4cfe-e3e7-45a9-8b3b-e66efaa16bd9,"Duchamp, que se suponía que era pregresista, le contó que fue una de sus amigas, le contó en una carta a su hermana, que fue una de sus amigas la que le proporcionó la pieza, y se la propuso.","[{'end': 7, 'label': 'PEOPLE', 'start': 0}]"
+1a00b60c-2fb1-4021-9754-b0e931235245,En esa película estamos rodeados de lesbianas o bisexuales asesinas.,"[{'end': 67, 'label': 'TOPIC', 'start': 36}]"
+602e5f41-a432-4f30-b5c7-31f9352e62cc,"François Gilles tenía 21 años, los mismos años que tenía Paul, el hijo de Picasso, con su mujer, el que tuvo con su mujer la bailarina Olga Koklova.","[{'end': 15, 'label': 'PEOPLE', 'start': 0}
+ {'end': 61, 'label': 'PEOPLE', 'start': 57}
+ {'end': 81, 'label': 'PEOPLE', 'start': 74}
+ {'end': 147, 'label': 'PEOPLE', 'start': 135}
+ {'end': 29, 'label': 'DATES', 'start': 22}]"
+0c9e27f6-6b93-4745-b313-b41b38878ff4,"La cuestión aquí es que no somos perfectas, aunque seguro que sí más conscientes de nuestros fallos, pero vayamos al lío, tú imagínate, Lucía, que te enamoras de un fach.","[{'end': 141, 'label': 'PEOPLE', 'start': 136}]"
+0c05a232-8c93-4f90-a060-f3c308126a82,"Mi inconsciente, Lucía Ligmaer, con cun santas, por las noches en mis sueños me diga, ¡ah, que estás bien, estás tranquilita, estás a gusto, este verano estás como el Dios, estás fantástica!","[{'end': 30, 'label': 'PEOPLE', 'start': 17}
+ {'end': 152, 'label': 'TOPIC', 'start': 146}
+ {'end': 171, 'label': 'TOPIC', 'start': 167}]"
+9bbdf67f-db30-401d-8ad9-2fdbe82e968a,"No sabes cómo ha pasado, te parece romántico, sabe todo de tu día a día que comes, que eres como piensas todo.","[{'end': 44, 'label': 'TOPIC', 'start': 35}]"
+27b9af26-c711-4342-b514-f010c0f6b6e8,"Líate con guiris, con gente extranjera, porque siempre podrás achacar los fallos de comunicación en la relación a una diferencia cultural.","[{'end': 137, 'label': 'TOPIC', 'start': 118}]"
+1dad554b-db78-4ee8-98cc-33dc000b9c01,Y no soporta que la cocina esté sucia.,"[{'end': 26, 'label': 'PLACES', 'start': 20}]"
+6136e388-5209-4a57-8ad3-68d1ecad617e,Pasión obsesiva con Tracy Wiss.,"[{'end': 30, 'label': 'PEOPLE', 'start': 20}
+ {'end': 15, 'label': 'BOOKS', 'start': 0}]"
+e8a19004-f54a-4d95-87ed-cd1cbe2623a5,"Sabes que en la ficción el control se demuestra con que ese hombre que te gusta tanto, que viste bien y que te da todo lo que necesita, tiene la precisión en los detalles de un cirujano.","[{'end': 23, 'label': 'PLACES', 'start': 13}]"
+7c70222f-2571-4ded-945e-5f7bf7153019,Pues podrás coser cuando venga la apocalipsis.,"[{'end': 45, 'label': 'TOPIC', 'start': 34}]"
+af5c1c0d-f215-4e8f-bc76-e89ad7180f92,No sirve la astrología en esto que estoy diciendo.,"[{'end': 22, 'label': 'TOPIC', 'start': 12}]"
+e81aecdd-db70-4a53-891c-6e3e1a8d77b7,"Bienvenidas, concursantas, a este curso 2022-2023.","[{'end': 49, 'label': 'DATES', 'start': 40}]"
+084da9bd-e697-47ae-b33d-548e7c7cc965,Lo de que tu histeria femenina requiere.,"[{'end': 30, 'label': 'TOPIC', 'start': 13}]"
+7dbff663-b712-4138-b359-7359f694c0e7,"¿Qué nos importa la pequeñita sabana de la cama, que es una metáfora del guardapapeles que tienes comprado para la asignatura de cine experimental que te estás haciendo en la NYU?","[{'end': 178, 'label': 'PLACES', 'start': 175}
+ {'end': 146, 'label': 'TOPIC', 'start': 129}
+ {'end': 86, 'label': 'OBJECTS', 'start': 73}
+ {'end': 47, 'label': 'OBJECTS', 'start': 43}]"
+bd84fe26-ffdb-49e1-90bd-9b6bcb35b44b,¿Cómo vas a ser egoísta por querer un amor?,"[{'end': 42, 'label': 'TOPIC', 'start': 38}]"
+170e94d6-2eb3-44f7-b499-ff031720a1bd,Ahora la gente lo dice como que es original.,"[{'end': 43, 'label': 'TOPIC', 'start': 35}]"
+51a974cf-810e-44ed-aa70-c8ecb7e183a9,"Era nazi Heidegger, y fue su amor.","[{'end': 18, 'label': 'PEOPLE', 'start': 9}
+ {'end': 33, 'label': 'TOPIC', 'start': 29}]"
+7734a363-86c8-48f5-8c16-fe862ee1c0dc,"François reconoció a Dora Mar inmediatamente porque conocía bien la hora de Picasso y la había retratado en infinidad de ocasiones, la mujer que llora, que siempre Dora Mar.","[{'end': 8, 'label': 'PEOPLE', 'start': 0}
+ {'end': 29, 'label': 'PEOPLE', 'start': 21}
+ {'end': 83, 'label': 'PEOPLE', 'start': 76}]"
+f28d4e34-cd55-4539-8a9a-48e866172802,"Es que Tinder, Tinder Barcelona es el fuerte, porque os conocéis entre todos.","[{'end': 13, 'label': 'PRODUCTS', 'start': 7}
+ {'end': 31, 'label': 'PLACES', 'start': 22}]"
+f82dbca0-94cf-4f3b-a294-3ac66638bc64,"Imagínate el Jesús de los Monteros, ese, ¿cómo se llama?","[{'end': 34, 'label': 'PEOPLE', 'start': 13}]"
+eea898d8-f350-4a18-8257-0b3b79f2a947,"Estudia química, física, se ingeniera, astronoma, carnicera o lampista, profesiones importantísimas.","[{'end': 15, 'label': 'TOPIC', 'start': 8}
+ {'end': 23, 'label': 'TOPIC', 'start': 17}
+ {'end': 37, 'label': 'TOPIC', 'start': 28}
+ {'end': 48, 'label': 'TOPIC', 'start': 39}
+ {'end': 59, 'label': 'TOPIC', 'start': 50}
+ {'end': 70, 'label': 'TOPIC', 'start': 62}
+ {'end': 83, 'label': 'TOPIC', 'start': 72}]"
+398a75b4-e154-4203-a40b-b7b80586cb31,"Bien, bien, yo solo pienso o vale en el amor.","[{'end': 44, 'label': 'TOPIC', 'start': 40}]"
+47898065-919e-44b6-8902-0b40837bb80f,"Dice la escritora otra, Nancy Houston, señala fantástica, dice, las mujeres somos muy conscientes del sobresalto que despertarán las cositas mundanas entre los grandes intelectuales, Lucía.","[{'end': 37, 'label': 'PEOPLE', 'start': 24}
+ {'end': 188, 'label': 'PEOPLE', 'start': 183}]"
+23426134-5163-4860-8725-e55a4e3a7943,"Además, su erotismo solo puede tener lugar en una discoteca con drogas de por medio, nocturnidad o sea perversión.","[{'end': 59, 'label': 'PLACES', 'start': 50}
+ {'end': 19, 'label': 'TOPIC', 'start': 11}
+ {'end': 70, 'label': 'TOPIC', 'start': 64}
+ {'end': 96, 'label': 'TOPIC', 'start': 85}
+ {'end': 113, 'label': 'TOPIC', 'start': 103}]"
+710d01e2-791f-42c9-b938-14719e61f0a1,"Hablas día y noche por WhatsApp, Telegram, todas las plataformas posibles, las que uséis, yo que sé, que estáis a orejas mías, no tengo ni puta idea.","[{'end': 31, 'label': 'PRODUCTS', 'start': 23}
+ {'end': 41, 'label': 'PRODUCTS', 'start': 33}]"
+03b92627-4319-4569-b995-4da0eda04ab8,"El fabuloso documental Celluloid Closet, del cual ya hemos hablado, que es fantástico, lo podéis encontrar en todas partes.","[{'end': 39, 'label': 'FILMS', 'start': 23}]"
+da1ba6ab-5d00-4c87-8e36-c2f47b61d97a,¿Sabes distinguir cuáles son las plantas venenosas?,"[{'end': 50, 'label': 'TOPIC', 'start': 33}]"
+ed335458-84e6-4dd7-a211-ae170e705ac3,"Tenías un perro a Salcia... No, ya, no, cariño.","[{'end': 24, 'label': 'PEOPLE', 'start': 18}]"
+946a787c-37fd-4aa5-b9bd-144c5feef0e2,"En total, tu podcast de referencia, el podcast de las listas Lucinda, donde nosotras os narraremos de manera insuperable.","[{'end': 68, 'label': 'PEOPLE', 'start': 61}]"
+526c2b9b-8f05-4ab7-bcc6-bb1d357ebdbc,"Puede que sea una asesina también Beth, que es la psicóloga amante de Douglas y ex de Charlonestone, de quien el espectador y el protagonista empiezan a desconfiar desde el momento en el que se descubre que ella es bisexual.","[{'end': 38, 'label': 'PEOPLE', 'start': 34}
+ {'end': 77, 'label': 'PEOPLE', 'start': 70}
+ {'end': 99, 'label': 'PEOPLE', 'start': 86}]"
+2090cd6a-a8ef-49c9-bb5e-5018c755eaa6,"Nuestro gusto por los objetos y los detalles se manifiesta de manera precoz a través de la exquisición, de la exquisición, de la exquisición, de una cultura de lo cotidiano, de lo minúsculo, lo superfluo, ¿sabéis?","[{'end': 102, 'label': 'TOPIC', 'start': 91}
+ {'end': 156, 'label': 'TOPIC', 'start': 149}
+ {'end': 172, 'label': 'TOPIC', 'start': 163}]"
+fce870d8-dab0-4906-b4dd-245ec95897ca,"Minúsculo y superfluo, ¿cómo señala Catherine Monod en su libro sobre las niñas?","[{'end': 51, 'label': 'PEOPLE', 'start': 36}]"
+cd4d60fc-5329-4a17-992e-f754888561f4,"Bueno, pues Celluloid Closet, que lo tenéis que ver, cuente que la gran mentira sobre los hombres y las mujeres homosexuales en el cine es que no existen, esa es la gran mentira.","[{'end': 28, 'label': 'FILMS', 'start': 12}]"
+37e262fb-5696-4deb-97bd-a944bdd67703,Pero muchísimas veces Lucía ha estado en la vida donde no quería estar.,"[{'end': 27, 'label': 'PEOPLE', 'start': 22}]"
+0ebed0fe-f0b6-46e9-8b11-39faaa77585b,Ella se convierte en el centro artístico de Nueva York.,"[{'end': 54, 'label': 'PLACES', 'start': 44}]"
+32c9774c-50bc-43c0-b64b-f87eb463bf52,"La varónesa, hay que decir, murió sola y sin reconocimiento el 14 de diciembre de 1927, dejó a Nueva York, se fue a París, por inhalación de gas, andá en circunstancias por coclaras, se cree, por supuesto, que fue un suicidio y hoy queremos reivindicarla.","[{'end': 11, 'label': 'PEOPLE', 'start': 0}
+ {'end': 86, 'label': 'DATES', 'start': 63}
+ {'end': 105, 'label': 'PLACES', 'start': 95}
+ {'end': 121, 'label': 'PLACES', 'start': 116}]"
+6a7445ee-f4a6-42cc-b651-7b0ba22e1517,"A Masala le dijeron, no le digas al Charlton Heston que todo esto tiene que ser, bueno, bueno.","[{'end': 8, 'label': 'PEOPLE', 'start': 2}
+ {'end': 51, 'label': 'PEOPLE', 'start': 36}]"
+18830e7a-06ec-4683-9e06-e7102aa70edc,"El ejemplo es el de la escena de la discoteca, el cuello de pico, donde se besan por primera vez los protagonistas.","[{'end': 45, 'label': 'PLACES', 'start': 36}
+ {'end': 64, 'label': 'TOPIC', 'start': 50}]"
+fe4e511e-3a6e-4eb8-815e-dc8eee745adf,Los postres de construido son el nuevo tartar de Atún.,"[{'end': 53, 'label': 'OBJECTS', 'start': 39}]"
+c1a145e2-d679-429a-9238-1003a8da7564,"No es porque me tiene envidia, Lucía.","[{'end': 36, 'label': 'PEOPLE', 'start': 31}]"
+ebf2f4eb-c1bb-4b7e-8baa-b36315ce6452,"Esta señora que te va a fascinar, nacida en 1874 y criada en Prussia.","[{'end': 48, 'label': 'DATES', 'start': 44}
+ {'end': 68, 'label': 'PLACES', 'start': 61}]"
+51accfdf-1b95-49d3-958b-a687ec45be92,"Por supuesto, hace también en la introducción un recuento histórico, las mujeres artistas son el 1% por ejemplo de la National Gallery de Londres, el 1% y el público general de su país, el Reino Unido, no pueden nombrar a más de tres artistas mujeres.","[{'end': 145, 'label': 'ORGANIZATIONS', 'start': 118}
+ {'end': 200, 'label': 'PLACES', 'start': 189}]"
+c10be14a-0c9d-4ad6-93eb-137c28d680b8,"Más el Duchamp, el artista, quedó por supuesto fascinado con ella.","[{'end': 14, 'label': 'PEOPLE', 'start': 7}]"
+deb4ba56-2f41-4aa1-aa1f-0b3352aa0a30,Pero como si fuera así una cosa de plastilina.,"[{'end': 45, 'label': 'OBJECTS', 'start': 35}]"
+26e7b3d9-d1d0-455a-b9a2-fa12b429ddd4,"Intimidad con alguien, eso es guay la intimidad, un mundo propio, que el mundo entero además lo vea, que se ha testigo de que tú tienes un mundo propio con alguien.","[{'end': 9, 'label': 'TOPIC', 'start': 0}]"
+d9e86540-87ad-4ad9-809e-88655ddb7678,Yo vengo a hablar del aniquilador de Almax.,"[{'end': 42, 'label': 'PEOPLE', 'start': 37}]"
+a2152f8f-082b-4dc4-8737-025980337b29,"Las Birkenstock son horrorosas, al todo el mundo le gusta, todos tenemos las Birkenstock, qué guayeres, porque llevas las Birkenstock y encima te gustan, a mí me chiflan, no puedo ir a ninguna parte sin Birkenstock.","[{'end': 15, 'label': 'PRODUCTS', 'start': 0}
+ {'end': 88, 'label': 'PRODUCTS', 'start': 77}
+ {'end': 133, 'label': 'PRODUCTS', 'start': 122}
+ {'end': 214, 'label': 'PRODUCTS', 'start': 203}]"
+e79c14e1-9dc4-42e4-98a6-493bcf692602,"Cristina, que no te llamas así, pero tú sabes bien cómo te llamas.","[{'end': 8, 'label': 'PEOPLE', 'start': 0}]"
+3a473e27-440c-4ffd-a885-6ee816a7c72d,"Hesel lo que hace en este libro es utilizar el título del libro más famoso y más reputado de la historia del arte, el de Gombridge, cuya primera edición no tenía ninguna mujer y su 16ª edición solo tiene una.","[{'end': 130, 'label': 'BOOKS', 'start': 121}
+ {'end': 5, 'label': 'PEOPLE', 'start': 0}]"
+418b46de-bdf8-4c24-83ae-d31b303fd9b0,"Sí, sí, belleza fatal, parece una película cine negro de los años cuarenta, ¿verdad?","[{'end': 21, 'label': 'TOPIC', 'start': 8}
+ {'end': 74, 'label': 'DATES', 'start': 57}]"
+f0136117-aa10-4db8-8982-3a8c7515ad46,"En mi postre y que no, que ha pasado por las manos de mi hijo de tres años que no tengo.","[{'end': 74, 'label': 'ORGANIZATIONS', 'start': 65}]"
+1fb2603d-8d0f-4eac-af80-fec2704e2789,"En una mesa estaba Picasso con su entonces pareja, la pintora Dora Mar y la viscondesa de Noalles.","[{'end': 26, 'label': 'PEOPLE', 'start': 19}
+ {'end': 70, 'label': 'PEOPLE', 'start': 62}
+ {'end': 97, 'label': 'PEOPLE', 'start': 76}]"
+ebfe0277-d915-4cf5-87a0-90c8b6a2868e,¿Sabes cambiar la batería de un coche?,"[{'end': 37, 'label': 'OBJECTS', 'start': 32}]"
+1dacad6d-41b7-4338-9cc2-32b7897d5c22,Hay un vínculo constante entre lesbianismo y asesinato.,"[{'end': 42, 'label': 'TOPIC', 'start': 31}
+ {'end': 54, 'label': 'TOPIC', 'start': 45}]"
+4c9ceb30-6313-4871-b75b-2f325caf7948,"Y la última a la tercera se casa con un varón sin dinero, por eso es baronesa, y hace de modelo para Man Ray, entre otros.","[{'end': 108, 'label': 'PEOPLE', 'start': 101}
+ {'end': 121, 'label': 'ORGANIZATIONS', 'start': 116}]"
+a56b958a-42f3-4e7c-bc3e-74ccfdfb5bb1,Silvia Plaz escribía lo siguiente.,"[{'end': 11, 'label': 'PEOPLE', 'start': 0}]"
+e7300a4b-8704-43af-94e5-a337806b1cfa,Miedo súbito con Joan Crawford.,"[{'end': 30, 'label': 'PEOPLE', 'start': 17}
+ {'end': 12, 'label': 'FILMS', 'start': 0}]"
+7f67137d-bc0c-4f32-9072-cf7105960aa7,Subtítulos en español de la Iglesia de Jesucristo de los Santos,"[{'end': 63, 'label': 'TOPIC', 'start': 28}]"
+40945f94-cb27-44d0-b18b-15206a2891a2,"Se tenía el pelo de rojo y alimentaba a las ratas y ratones que se colaban en su apartamento, que estaba hecho un desastre.","[{'end': 49, 'label': 'ANIMALS', 'start': 44}
+ {'end': 59, 'label': 'ANIMALS', 'start': 52}
+ {'end': 92, 'label': 'PLACES', 'start': 81}]"
+2eea8c04-b8e5-44a5-b555-d9ecfe04929e,"No lo sé, el sin sentido vomita incluso los girasoles y la estupidez, aparte en senenazas, nenitas y ladillas, o tendrán que verse las con mi polla.","[{'end': 53, 'label': 'OBJECTS', 'start': 44}]"
+ad73c343-0f73-44c7-bd7f-74efb35098ce,"Esto ya, si ya sabemos que no hay que salir de la zona de confort.","[{'end': 65, 'label': 'TOPIC', 'start': 50}]"
+93d2ab5c-52d9-4ac3-b77d-22476d0ea210,"Me saco una carrera en la bañerita de Adal, de guante, poné un cuadrito en el cuarto de la niña, esa de coletas de mierda, pues así, bien.","[{'end': 42, 'label': 'PEOPLE', 'start': 38}
+ {'end': 34, 'label': 'OBJECTS', 'start': 26}]"
+76261a94-63c2-4993-8a8b-ff3a38df5b74,Van a verle al estudio a Picasso.,"[{'end': 32, 'label': 'PEOPLE', 'start': 25}]"
+9ab714d0-9bd7-49e7-ad00-a9cc76591b05,"Sí, y tener teoría sobre el amor, no.","[{'end': 32, 'label': 'TOPIC', 'start': 28}]"
+8a612110-41b3-4e09-9bc5-c2aa372db6d3,"François estaba con su amiga Geneviève y con el actor Alain Coulis en un restaurante de París, cenando, precisamente, no.","[{'end': 8, 'label': 'PEOPLE', 'start': 0}
+ {'end': 38, 'label': 'PEOPLE', 'start': 29}
+ {'end': 66, 'label': 'PEOPLE', 'start': 54}
+ {'end': 93, 'label': 'PLACES', 'start': 88}
+ {'end': 84, 'label': 'PLACES', 'start': 73}]"
+05ee2c0a-c140-45cf-965c-efb610bccf0b,"Saltar de un desfiladero, tomar peyote, lo que tú quieras.","[{'end': 38, 'label': 'OBJECTS', 'start': 32}]"
+8a44caa0-76a0-449a-a121-035605aeed12,"Se refuerza a la idea de que las lesbianas son criminales que merecen morir, y eso generó muchísima queja en el colectivo LGTBQ por la imagen perversa y real de la homosexualidad y la bisexualidad.","[{'end': 127, 'label': 'TOPIC', 'start': 122}
+ {'end': 42, 'label': 'TOPIC', 'start': 33}
+ {'end': 178, 'label': 'TOPIC', 'start': 164}
+ {'end': 196, 'label': 'TOPIC', 'start': 184}]"
+b4934a82-95d7-4cec-929a-09f812c633a2,"Usa clínex, se ducha inmediatamente después del sexo y, por supuesto, no practica el sexo oral, solo lo demanda.","[{'end': 10, 'label': 'PRODUCTS', 'start': 4}]"
+52ee7f9d-1241-4837-a268-81df8be934ad,"Nos encontramos en una primera cita, al lado del hotel, que las dos suspiramos como dos viejecillas que recuerdan lo que era eso.","[{'end': 54, 'label': 'PLACES', 'start': 49}]"
+f297aacc-977c-4293-9fb7-148991d17abe,"Pero volvamos a que deseamos lo que no tenemos, un claro ejemplo es la boda, ¿os acordáis de cuando la gente empezó a llevar Birkenstock?","[{'end': 136, 'label': 'ORGANIZATIONS', 'start': 125}]"
+b22fdfe3-f65e-4fbe-85f1-db8be0c0b1c7,"Aprende a cambiar en chufes, hacerle el puente a un coche, construye un satélite, ¿vale?","[{'end': 57, 'label': 'OBJECTS', 'start': 52}
+ {'end': 80, 'label': 'OBJECTS', 'start': 72}]"
