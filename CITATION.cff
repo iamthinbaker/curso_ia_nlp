@@ -8,8 +8,8 @@ authors:
     given-names: Ángel
     alias: DelgadoPanadero
     orcid: "0000-0002-8189-9251"
-repository-code: "https://github.com/DelgadoPanadero/Curso-de-IA-y-NLP"
-url: "https://github.com/DelgadoPanadero/Curso-de-IA-y-NLP"
+repository-code: "https://github.com/DelgadoPanadero/curso_ia_nlp"
+url: "https://github.com/DelgadoPanadero/curso_ia_nlp"
 license: MIT
 keywords:
   - machine learning

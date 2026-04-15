@@ -33,7 +33,7 @@ jobs:
       - name: Build the book
         run: myst build --html
         env:
-          BASE_URL: /Curso-de-IA-y-NLP
+          BASE_URL: /curso_ia_nlp
 
       - name: List build output
         run: find _build -maxdepth 3 -type f -name "*.html" | head -20

@@ -6,7 +6,7 @@ project:
     - name: DelgadoPanadero
       nameParsed:
         literal: DelgadoPanadero
-  github: https://github.com/DelgadoPanadero/Curso-de-IA-y-NLP
+  github: https://github.com/DelgadoPanadero/curso_ia_nlp
   exclude:
     - _build/**
   toc:
