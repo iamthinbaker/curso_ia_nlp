@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Si usas este material en tu trabajo o lo adaptas para tu curso, por favor cita usando estos metadatos."
+type: software
+title: "Curso de IA y NLP"
+abstract: "Material didáctico práctico sobre Inteligencia Artificial aplicada al Procesamiento del Lenguaje Natural, desde ML clásico hasta Large Language Models."
+authors:
+  - family-names: Delgado-Panadero
+    given-names: Ángel
+    alias: DelgadoPanadero
+    orcid: "0000-0002-8189-9251"
+repository-code: "https://github.com/DelgadoPanadero/Curso-de-IA-y-NLP"
+url: "https://github.com/DelgadoPanadero/Curso-de-IA-y-NLP"
+license: MIT
+keywords:
+  - machine learning
+  - natural language processing
+  - NLP
+  - deep learning
+  - large language models
+  - python
+  - curso
+  - educación

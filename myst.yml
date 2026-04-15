@@ -1,0 +1,51 @@
+version: 1
+
+project:
+  title: "Curso de IA y NLP"
+  authors:
+    - name: "DelgadoPanadero"
+  github: https://github.com/DelgadoPanadero/Curso-de-IA-y-NLP
+  exclude:
+    - _build/**
+  extensions:
+    - colon_fence
+    - dollarmath
+  toc:
+    - file: README.md
+    - title: "1. Introducción - ¿Qué es Machine Learning?"
+      children:
+        - file: lessons/01_introduccion_que_es_ml/introduccion_que_es_ml.ipynb
+        - file: lessons/01_introduccion_que_es_ml/prediccion_california_house_prizing_ejercicio.ipynb
+    - title: "2. Introducción - Tipos de Machine Learning"
+      children:
+        - file: lessons/02_introduccion_tipos_ml/introduccion_tipos_ml.ipynb
+        - file: lessons/02_introduccion_tipos_ml/clasificacion_penguin_species_ejercicio.ipynb
+    - title: "3. Introducción - Análisis Exploratorio"
+      children:
+        - file: lessons/03_introduccion_analisis_exploratorio/introduccion_analisis_exploratorio.ipynb
+    - title: "4. NLP y ML - Representación Numérica de Texto"
+      children:
+        - file: lessons/04_nlp_ml_representacion_numerica/nlp_ml_representacion_numerica.ipynb
+        - file: lessons/04_nlp_ml_representacion_numerica/buscador_tfidf_ejercicio.ipynb
+    - title: "5. NLP y ML - Aprendizaje Supervisado"
+      children:
+        - file: lessons/05_nlp_ml_aprendizaje_supervisado/nlp_ml_aprendizaje_supervisado.ipynb
+        - file: lessons/05_nlp_ml_aprendizaje_supervisado/corrector_noise_channel_ejercicio.ipynb
+    - title: "6. NLP y ML - Aprendizaje No Supervisado"
+      children:
+        - file: lessons/06_nlp_ml_aprendizaje_no_supervisado/nlp_ml_aprendizaje_no_supervisado.ipynb
+        - file: lessons/06_nlp_ml_aprendizaje_no_supervisado/traductor_con_ngramas_ejercicio.ipynb
+    - title: "7. NLP y DL - Word Embeddings"
+      children:
+        - file: lessons/07_nlp_dl_word_embeddings/nlp_dl_word_embeddings.ipynb
+    - title: "8. NLP y DL - Large Language Models"
+      children:
+        - file: lessons/08_nlp_dl_large_language_models/nlp_df_large_language_models.ipynb
+
+site:
+  template: book-theme
+  options:
+    logo: ""
+    use_issues_button: true
+    use_repository_button: true
+    style: _static/custom.css
