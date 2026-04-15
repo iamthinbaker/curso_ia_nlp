@@ -28,15 +28,20 @@ jobs:
           cache: "pip"
 
       - name: Install Jupyter Book
-        run: pip install ".[build]"
+        run: pip install ".[build]" mystmd
 
       - name: Build the book
-        run: jupyter-book build --html
+        run: myst build --html
+        env:
+          BASE_URL: /Curso-de-IA-y-NLP
+
+      - name: List build output
+        run: find _build -maxdepth 3 -type f -name "*.html" | head -20
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "_build/site"
+          path: "_build/html"
 
   deploy:
     needs: build
