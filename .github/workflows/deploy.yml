@@ -1,4 +1,4 @@
-name: Deploy Jupyter Book to GitHub Pages
+name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
@@ -27,21 +27,19 @@ jobs:
           python-version: "3.11"
           cache: "pip"
 
-      - name: Install Jupyter Book
-        run: pip install ".[build]" mystmd
+      - name: Install MkDocs
+        run: pip install ".[build]"
 
-      - name: Build the book
-        run: myst build --html
-        env:
-          BASE_URL: /curso_ia_nlp
+      - name: Build the docs
+        run: mkdocs build
 
       - name: List build output
-        run: find _build -maxdepth 3 -type f -name "*.html" | head -20
+        run: find site -maxdepth 3 -type f -name "*.html" | head -20
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "_build/html"
+          path: "site"
 
   deploy:
     needs: build

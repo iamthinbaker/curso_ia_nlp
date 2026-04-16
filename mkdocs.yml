@@ -1,0 +1,82 @@
+site_name: Curso de IA y NLP
+site_url: https://delgadopanadero.com/
+repo_url: https://github.com/DelgadoPanadero/curso_ia_nlp
+repo_name: DelgadoPanadero/curso_ia_nlp
+edit_uri: edit/main/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/delgado-panadero
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/panaderodelgado
+
+plugins:
+  - search
+  - mkdocs-jupyter:
+      execute: false
+      include_source: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      depth: 3
+
+nav:
+  - Inicio: README.md
+  - "1. Introducción - ¿Qué es Machine Learning?":
+    - lessons/01_introduccion_que_es_ml/introduccion_que_es_ml.ipynb
+    - "Predicción: California House Pricing": lessons/01_introduccion_que_es_ml/prediccion_california_house_prizing.ipynb
+  - "2. Introducción - Tipos de Machine Learning":
+    - lessons/02_introduccion_tipos_ml/introduccion_tipos_ml.ipynb
+    - "Clasificación: Penguin Species": lessons/02_introduccion_tipos_ml/clasificacion_penguin_species.ipynb
+  - "3. Introducción - Análisis Exploratorio":
+    - lessons/03_introduccion_analisis_exploratorio/introduccion_analisis_exploratorio.ipynb
+  - "4. NLP y ML - Representación Numérica de Texto":
+    - lessons/04_nlp_ml_representacion_numerica/nlp_ml_representacion_numerica.ipynb
+    - "Buscador TF-IDF": lessons/04_nlp_ml_representacion_numerica/buscador_tfidf.ipynb
+  - "5. NLP y ML - Aprendizaje Supervisado":
+    - lessons/05_nlp_ml_aprendizaje_supervisado/nlp_ml_aprendizaje_supervisado.ipynb
+    - "Corrector Noise Channel": lessons/05_nlp_ml_aprendizaje_supervisado/corrector_noise_channel.ipynb
+  - "6. NLP y ML - Aprendizaje No Supervisado":
+    - lessons/06_nlp_ml_aprendizaje_no_supervisado/nlp_ml_aprendizaje_no_supervisado.ipynb
+    - "Traductor con N-Gramas": lessons/06_nlp_ml_aprendizaje_no_supervisado/traductor_con_ngramas.ipynb
+  - "7. NLP y DL - Word Embeddings":
+    - lessons/07_nlp_dl_word_embeddings/nlp_dl_word_embeddings.ipynb
+  - "8. NLP y DL - Large Language Models":
+    - lessons/08_nlp_dl_large_language_models/nlp_df_large_language_models.ipynb
+  - "Preguntas de Entrevista":
+    - "Generales": lessons/preguntas_entrevista/general.md
+    - "Machine Learning": lessons/preguntas_entrevista/machine_learning.md
+    - "Deep Learning": lessons/preguntas_entrevista/deep_learning.md
+    - "NLP": lessons/preguntas_entrevista/natural_language_processing.md

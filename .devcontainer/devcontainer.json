@@ -23,6 +23,6 @@
       }
     }
   },
-"postCreateCommand": "echo 'Entorno listo. Ejecuta: claude o jupyter-book build .'",
+"postCreateCommand": "echo 'Entorno listo. Ejecuta: claude o mkdocs serve'",
   "remoteUser": "root"
 }

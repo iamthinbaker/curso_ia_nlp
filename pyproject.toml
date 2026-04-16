@@ -53,9 +53,11 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-# jupyter-book is a build/docs tool, not needed to run the notebooks
+# mkdocs is a build/docs tool, not needed to run the notebooks
 build = [
-    "jupyter-book",
+    "mkdocs",
+    "mkdocs-material",
+    "mkdocs-jupyter",
 ]
 
 [tool.setuptools]
