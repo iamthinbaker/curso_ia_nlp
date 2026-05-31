@@ -1,7 +1,7 @@
 site_name: Curso de IA y NLP
-site_url: https://delgadopanadero.com/
-repo_url: https://github.com/DelgadoPanadero/curso_ia_nlp
-repo_name: DelgadoPanadero/curso_ia_nlp
+site_url: https://thinbaker.com/
+repo_url: https://github.com/iamthinbaker/curso_ia_nlp
+repo_name: iamthinbaker/curso_ia_nlp
 edit_uri: edit/main/
 
 docs_dir: docs
@@ -9,6 +9,7 @@ site_dir: site
 
 theme:
   name: material
+  favicon: assets/images/favicon.svg
   features:
     - navigation.sections
     - navigation.indexes
@@ -34,10 +35,20 @@ extra_css:
 
 extra:
   social:
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/delgado-panadero
+    - icon: fontawesome/solid/globe
+      link: https://thinbaker.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/iamthinbaker
     - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/panaderodelgado
+      link: https://twitter.com/iamthinbaker
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/iamthinbaker.bsky.social
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/iamthinbaker/
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/delgadopanadero
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@iamthinbaker
 
 plugins:
   - search
